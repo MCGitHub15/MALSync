@@ -1,36 +1,4 @@
 {
-  "0.9.1": {
-    "AnimeOnsen": [
-      "https://www.animeonsen.xyz/*"
-    ],
-    "ComicK": [
-      "https://comick.app/*"
-    ],
-    "Gogoanime": [
-      "https://gogoanime.bid/*"
-    ],
-    "iframe": [
-      "https://vidstreaming.link/*",
-      "https://veestream.net/e/*",
-      "https://fusevideo.net/e/*",
-      "https://gogohd.pro/embedplus*",
-      "https://gogohd.pro/streaming.php?*",
-      "https://gogohd.pro/load.php?*",
-      "https://gogohd.pro/loadserver.php?*",
-      "https://gembedhd.com/embedplus*",
-      "https://gembedhd.com/streaming.php?*",
-      "https://gembedhd.com/load.php?*",
-      "https://gembedhd.com/loadserver.php?*",
-      "https://20demidistance9elongations.com/e/*",
-      "https://telyn610zoanthropy.com/e/*",
-      "https://toxitabellaeatrebates306.com/e/*",
-      "https://greaseball6eventual20.com/e/*",
-      "https://745mingiestblissfully.com/e/*",
-      "https://19turanosephantasia.com/e/*",
-      "https://30sensualizeexpression.com/e/*",
-      "https://animedao.to/redirect/*"
-    ]
-  },
   "0.9.2": {
     "Gogoanime": [
       "https://gogoanime.gr/*",
@@ -204,6 +172,45 @@
       "https://megacloud.tv/*",
       "https://vixcloud.cc/*",
       "https://vixcloud.co/*"
+    ]
+  },
+  "0.9.7": {
+    "DisasterScans": [
+      "https://disasterscans.com/manga*"
+    ],
+    "FlameScans": [
+      "https://flamescans.org/*"
+    ],
+    "FrixySubs": [
+      "https://frixysubs.pl/odcinki.html?id=*",
+      "https://frixysubs.pl/ogladaj.html?id=*"
+    ],
+    "Gogoanime": [
+      "https://anitaku.to/*"
+    ],
+    "MangasOrigines": [
+      "https://mangas-origines.fr/manga*"
+    ],
+    "nineAnime": [
+      "https://aniwave.vc/watch/*",
+      "https://aniwave.vc/watch2gether/*",
+      "https://lite.aniwave.to/watch/*",
+      "https://lite.aniwave.to/watch2gether/*",
+      "https://lite.aniwave.bz/watch/*",
+      "https://lite.aniwave.bz/watch2gether/*",
+      "https://lite.aniwave.ws/watch/*",
+      "https://lite.aniwave.ws/watch2gether/*",
+      "https://lite.aniwave.vc/watch/*",
+      "https://lite.aniwave.vc/watch2gether/*"
+    ],
+    "iframe": [
+      "https://player.mangakyo.me/stream/embed.php*",
+      "https://vcdn.space/v/*",
+      "https://vcdn-stream.xyz/v/*",
+      "https://playdrive.xyz/*",
+      "https://truepoweroflove.com/*",
+      "https://edwardarriveoften.com/e/*",
+      "https://animedao.to/redirect/*"
     ]
   }
 }

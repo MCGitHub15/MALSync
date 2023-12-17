@@ -652,6 +652,7 @@ module.exports = {
       '*://generatesnitrosate.com/e/*',
       '*://yodelswartlike.com/e/*',
       '*://figeterpiazine.com/e/*',
+      '*://edwardarriveoften.com/e/*',
       // auto-voe-replace-dont-remove
     ],
   },
