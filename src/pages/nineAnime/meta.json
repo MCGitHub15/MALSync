@@ -49,7 +49,17 @@
       "*://*.aniwave.bz/watch/*",
       "*://*.aniwave.bz/watch2gether/*",
       "*://*.aniwave.ws/watch/*",
-      "*://*.aniwave.ws/watch2gether/*"
+      "*://*.aniwave.ws/watch2gether/*",
+      "*://*.aniwave.vc/watch/*",
+      "*://*.aniwave.vc/watch2gether/*",
+      "*://*.lite.aniwave.to/watch/*",
+      "*://*.lite.aniwave.to/watch2gether/*",
+      "*://*.lite.aniwave.bz/watch/*",
+      "*://*.lite.aniwave.bz/watch2gether/*",
+      "*://*.lite.aniwave.ws/watch/*",
+      "*://*.lite.aniwave.ws/watch2gether/*",
+      "*://*.lite.aniwave.vc/watch/*",
+      "*://*.lite.aniwave.vc/watch2gether/*"
     ]
   }
 }
